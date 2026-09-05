@@ -1,0 +1,8 @@
+{
+  "name": "RetailLens AI",
+  "description": "Ecommerce analytics and AI-powered business insights frontend MVP for modern retail brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
